@@ -1,0 +1,22 @@
+{
+  "name": "uterm-js",
+  "version": "0.0.1",
+  "description": "A cool terminal written in javascript e3 !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTrosh/uterm-js.git"
+  },
+  "author": "UTrosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UTrosh/uterm-js/issues"
+  },
+  "homepage": "https://github.com/UTrosh/uterm-js#readme",
+  "dependencies": {
+    "terminal-kit": "^2.4.0"
+  }
+}
